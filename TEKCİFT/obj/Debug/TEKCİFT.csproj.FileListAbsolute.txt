@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\bin\Debug\TEKCİFT.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\bin\Debug\TEKCİFT.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\bin\Debug\TEKCİFT.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\TEKCİFT\TEKCİFT\obj\Debug\TEKCİFT.pdb
